@@ -1,3 +1,6 @@
+DIAZ SOTO CARLOS ANTONIO 6CV2
+COMPUTER SECURITY
+==================================
 # nmap Network Scanner
 
 This project is a network scanner based on Nmap implemented in Python. It uses the `python-nmap` library to perform network scans and display the results in the console.
