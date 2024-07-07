@@ -33,12 +33,11 @@ python nmap_scanner.py
 **Follow the instructions in the console:**
 
 The program will prompt you to enter the following details:
+- **Hosts:** El rango de IPs o la IP individual a escanear (por ejemplo, 192.168.1.0/24 o 192.168.0.1).
+- **Puertos:** Los puertos a escanear (por ejemplo, 22, 80, 443).
+- **Argumentos de Nmap:** Los argumentos de Nmap que desea utilizar (por ejemplo, -sS -O).
+- **Ejecutar como superusuario:** Indique si desea ejecutar el comando como superusuario (s/n).
 
-Hosts: The range of IPs or the individual IP to scan (e.g., 192.168.1.0/24 or 192.168.0.1).
-Ports: The ports to scan (e.g., 22, 80, 443).
-Nmap arguments: The Nmap arguments you want to use (e.g., -sS -O).
-Run as superuser: Indicate if you want to run the command as a superuser (y/n).
-If you choose to run as a superuser, you will be asked for the sudo password.
 
 **Scan results:**
 The program will display the scan results in the console, including the status of the hosts and ports.
