@@ -23,7 +23,7 @@ This project is a network scanner based on Nmap implemented in Python. It uses t
    pip install -r requirements.txt
    ```
 
-##Usage
+## Usage
 
 **Run the script:**
 ```bash
